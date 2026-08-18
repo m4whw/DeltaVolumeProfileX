@@ -1,0 +1,39 @@
+# =============================================================================
+#  Guard: this is a BINARY-ONLY public repository.
+#  Source code is proprietary and MUST NEVER be committed here. These rules make
+#  an accidental source commit impossible even if files are copied in by mistake.
+# =============================================================================
+
+# Source / build inputs - never publish
+*.cs
+*.csproj
+*.sln
+*.crproj
+
+# Signing keys / de-obfuscation maps / debug symbols - never publish
+*.snk
+*.pfx
+*symbols.map
+*_PRIVATE_*
+*.pdb
+
+# Local build/tooling artifacts
+build/
+out/
+obj/
+bin/
+Confused/
+*.previous.dll
+
+# Internal reports / dev notes - never publish
+*AUDIT*.md
+*SECURITY_REPORT*.md
+*_AR.md
+*.bak
+*PREV*
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+.vs/
+.vscode/

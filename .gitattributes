@@ -1,0 +1,5 @@
+# Keep binaries byte-exact; normalise text line endings.
+*.dll   binary
+*.jpg   binary
+*.png   binary
+* text=auto

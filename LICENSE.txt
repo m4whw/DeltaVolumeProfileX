@@ -1,0 +1,60 @@
+DeltaVolumeProfileX (DELTAVP) - End User License Agreement
+Copyright (c) 2026 Mohamed Abdelaziz. All rights reserved.
+Website: https://mohamed-abdelaziz.com/en
+
+IMPORTANT - READ CAREFULLY. By installing, copying or using this software (the
+"Software", meaning the DeltaVolumeProfileX indicator for NinjaTrader 8 and all
+associated files) you agree to be bound by the terms of this Agreement. If you do
+not agree, do not install or use the Software.
+
+1. OWNERSHIP
+   The Software is the intellectual property of Mohamed Abdelaziz (the "Owner") and
+   is protected by copyright and other intellectual-property laws and treaties. The
+   Software is licensed, not sold. The Owner retains all right, title and interest in
+   and to the Software, including all copies and derivative works.
+
+2. GRANT OF LICENCE
+   Subject to this Agreement and to payment of any applicable fee, the Owner grants
+   the licensed user a personal, non-exclusive, non-transferable, revocable licence to
+   install and use the Software for the user's own trading and analysis, on the number
+   of machines expressly authorised by the Owner.
+
+3. RESTRICTIONS
+   The user shall NOT, in whole or in part:
+     (a) copy or reproduce the Software except for a single backup copy;
+     (b) modify, adapt, translate or create derivative works of the Software;
+     (c) reverse engineer, decompile, disassemble, or otherwise attempt to derive the
+         source code, algorithms or internal structure of the Software, except to the
+         limited extent this restriction is expressly prohibited by applicable law;
+     (d) rent, lease, lend, sell, resell, sub-license, distribute, publish, share, or
+         otherwise make the Software available to any third party;
+     (e) remove, alter, obscure or circumvent any copyright notice, licence notice,
+         watermark, ownership mark or protection mechanism in the Software;
+     (f) use the Software to build a competing or substantially similar product.
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+5. ANALYTICAL TOOL - NOT INVESTMENT ADVICE
+   The Software is an analytical and charting tool only. It does not provide financial,
+   investment or trading advice and does not guarantee any result or profit. Trading
+   futures and other leveraged instruments involves substantial risk of loss. All
+   trading decisions and their consequences are the sole responsibility of the user.
+
+6. LIMITATION OF LIABILITY
+   To the maximum extent permitted by law, the Owner shall not be liable for any direct,
+   indirect, incidental, special, consequential or exemplary damages, including trading
+   losses, arising out of or related to the use of or inability to use the Software.
+
+7. TERMINATION
+   This licence terminates automatically, without notice, if the user breaches any term.
+   On termination the user must stop using and destroy all copies of the Software. The
+   restrictions in Section 3 survive termination.
+
+8. GOVERNING TERMS
+   Any use, modification or distribution of the Software outside the scope of the licence
+   granted in this Agreement requires the prior written permission of the Owner.
+
+Contact: https://mohamed-abdelaziz.com/en

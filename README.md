@@ -10,7 +10,7 @@ POC · Value Area (VAH/VAL) · Traded Range · VWAP · Session, Template & Manua
 [![Version](https://img.shields.io/badge/version-3.0.0-2ea043)](CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE.txt)
 
-[**Download**](dist/DeltaVolumeProfileX.dll) · [Install & Usage](INSTALL_AND_USAGE.md) · [Website](https://mohamed-abdelaziz.com/en) · [License](LICENSE.txt)
+[**Download**](dist/DeltaVolumeProfileX.dll) · [Install & Usage](INSTALL_AND_USAGE.md) · [Website](https://mohamed-abdelaziz.com/ar/learning/tools/delta-volume-profile-x) · [License](LICENSE.txt)
 
 </div>
 
